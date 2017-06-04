@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "loudness": "^0.2.2",
+    "wireless-tools": "^0.19.0"
+  }
+}
