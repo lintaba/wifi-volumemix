@@ -13,3 +13,9 @@ node index.js
 ```
 
 And move closer/away from a wifi source.
+
+
+Example:
+--------
+
+https://youtu.be/P5K83wlB5iw
